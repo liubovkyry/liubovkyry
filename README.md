@@ -8,7 +8,7 @@
 
  📫 To reach me, please contact me on LinkedIn or Email:
  
- <p><a href="https://www.linkedin.com/in/liubov-kyrychenko">LinkedIn</a>|<a href="mailto:liubov.kyrychenko.work@gmail.com">Email</a></p>
+ <p><a href="https://www.linkedin.com/in/liubov-kyrychenko" target="_blank">LinkedIn</a>|<a href="mailto:liubov.kyrychenko.work@gmail.com" target="_blank">Email</a></p>
 
 <!--
 **liubovkyry/liubovkyry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
