@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Liubov Kyrychenko
 -  I'm currently working on building up my GitHub Profile with Data Visualization projects  📊 📈 📉
--  I’m currently learning basics of Data Visualization, Modeling data in Power BI, DAX functions in Power BI.
+-  I’m currently learning Data Visualization, Modeling data in Power BI, DAX functions in Power BI.
 -  I’m looking to collaborate on any of the presented data visualization projects or open to other projects.
 <!--<h2>Background</h2>-->
 
