@@ -1,8 +1,17 @@
 ### Hi there 👋 I'm Liubov Kyrychenko
+
+
 -  I'm currently working on building up my GitHub Profile with Data Visualization projects  📊 📈 📉
--  I’m currently learning Data Visualization, Modeling data in Power BI, DAX functions, SQL.
--  I’m looking to collaborate on any of the presented data visualization projects or open to other projects.
-<!-- <h2>Background</h2> -->
+-  I’m learning Data Modeling, Processing and data visualization in Power BI; PowerQuery, DAX functions, PostgreSQL.
+
+ <h2>Background</h2>
+ 
+ I have several years experience working with Telecommunication organisations.
+ However I am now working on a transition to a career in Data and Analytics. 
+ 
+ 
+ I have recently completed self-educational courses in Data Analysis and Power BI. During my studies  I have gained hands-on experience with various data analysis tools and techniques, including SQL, Power BI and Data Modelling. 
+ I also completed several projects where I applied my skills to real-world tasks, including analysing competitors' sales data, customer’s feedback, and building dashboards and reports in Power BI to surface the data.
 
 <!--  <h2>Contact me</h2>
 
