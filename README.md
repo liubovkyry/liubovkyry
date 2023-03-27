@@ -5,11 +5,14 @@
 ☁ Power BI and Data Visualization specialist with a multi-faceted background including developing
 business relationships, sales, and customer support. Proven ability to develop strong relationships
 across teams to support a positive work environment.
+
 ☁Developed specialties in data modelling, processing, analysis, and visualization.
+
 ☁I’ve gained confidence and experience with Power BI, Power Query, DAX and the basics
 qualification requirements in SQL (PostgreSQL) and I&#39;m consistently upskilling and updating myself
 regarding changes and advancements in data analytics. Currently exploring data warehouse basics,
 ETL and working with Snowflake Data Cloud.
+
 ☁I’m passionate about making data beautiful and easy to access.
 
 
