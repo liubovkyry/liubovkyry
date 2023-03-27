@@ -1,18 +1,23 @@
 ### Hi there 👋 I'm Liubov Kyrychenko
 
 
--  I'm currently working on building up my GitHub Profile with Data Visualization projects  📊 📈 📉
--  I’m learning Data Modeling, Processing and data visualization in Power BI; PowerQuery, DAX functions, PostgreSQL.
 
- <h2>Background</h2>
- 
- I have several years experience working with Telecommunication organisations.
- However I am now working on a transition to a career in Data and Analytics. 
- 
- 
- I have recently completed self-educational courses in Data Analysis and Power BI. During my studies  I have gained hands-on experience with various data analysis tools and techniques, including SQL, Power BI and Data Modelling. 
- I also completed several projects where I applied my skills to real-world tasks, including analysing competitors' sales data, customer’s feedback, and building dashboards and reports in Power BI to surface the data.
+☁ Power BI and Data Visualization specialist with a multi-faceted background including developing
+business relationships, sales, and customer support. Proven ability to develop strong relationships
+across teams to support a positive work environment.
+☁Developed specialties in data modelling, processing, analysis, and visualization.
+☁I’ve gained confidence and experience with Power BI, Power Query, DAX and the basics
+qualification requirements in SQL (PostgreSQL) and I&#39;m consistently upskilling and updating myself
+regarding changes and advancements in data analytics. Currently exploring data warehouse basics,
+ETL and working with Snowflake Data Cloud.
+☁I’m passionate about making data beautiful and easy to access.
 
+
+ 
+ 
+ 
+ 
+ 
 <!--  <h2>Contact me</h2>
 
  📧 To reach me, please contact me on LinkedIn or Email:
