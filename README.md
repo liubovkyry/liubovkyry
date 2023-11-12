@@ -31,9 +31,12 @@ ETL and working with Snowflake Data Cloud.
  <a title="CSS3" href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"></a>
  <a title="HTML5" href="https://www.w3.org/html/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
  <a title="Power BI" href="https://powerbi.microsoft.com/en-ie/" rel="nofollow"><img width="40" height="40" style="max-width: 100%; alt="New Power BI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png"></a>
-  <a title="SQL" href="[https://powerbi.microsoft.com/en-ie/](https://www.w3schools.com/sql/default.asp)" rel="nofollow"><img width="50" height="40" style="max-width: 100%; alt="SQL" src="https://www.thedataschool.com.au/wp-content/uploads/2022/12/Sql_data_base_with_logo.png"></a>
+  <a title="SQL"   href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" rel="nofollow"><img width="50" height="40" style="max-width: 100%; alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 </p>
 
+
+
+          
   <!--
 **liubovkyry/liubovkyry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
